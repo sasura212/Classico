@@ -1,1 +1,1 @@
-A vibe-coded plugin for Figma to categorize your fonts.
+A vibe-coded plugin for Figma to categorize your <s>fonts</s> typefaces.
